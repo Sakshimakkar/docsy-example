@@ -1,6 +1,6 @@
 baseURL = "https://capsulecorplab.github.io/docsy-example"
 title = "Goldydocs"
-canonifyURLs = true
+canonifyURLs = false
 
 enableRobotsTXT = true
 
