@@ -1,8 +1,10 @@
-# Docsy Example
+# Docsy Example using The Documentation System
+
+This repo is a fork of the [Docsy Example Project](https://github.com/google/docsy-example), but restructured using [The Documentation System](https://documentation.divio.com/) by Daniele Procida.
 
 [Docsy](https://github.com/google/docsy) is a Hugo theme for technical documentation sites, providing easy site navigation, structure, and more. This **Docsy Example Project** uses the Docsy theme, as well as providing a skeleton documentation structure for you to use. You can either copy this project and edit it with your own content, or use the theme in your projects like any other [Hugo theme](https://gohugo.io/themes/installing-and-using-themes/).
 
-This Docsy Example Project is hosted at [https://example.docsy.dev/](https://example.docsy.dev/).
+This Docsy Example Project is hosted at (https://capsulecorplab.github.io/docsy-example/).
 
 You can find detailed theme instructions in the Docsy user guide: https://docsy.dev/docs/
 
@@ -13,7 +15,7 @@ This is not an officially supported Google product. This project is currently ma
 The following will give you a project that is set up and ready to use (don't forget to use `--recurse-submodules` or you won't pull down some of the code you need to generate a working site). The `hugo server` command builds and serves the site. If you just want to build the site, run `hugo` instead.
 
 ```bash
-git clone --recurse-submodules --depth 1 https://github.com/google/docsy-example.git
+git clone --recurse-submodules --depth 1 https://github.com/capsulecorplab/docsy-example.git
 cd docsy-example
 hugo server
 ```
